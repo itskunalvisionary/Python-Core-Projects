@@ -1,4 +1,4 @@
-🚀 DAY 5 – Conditional Logic (Uber, Swiggy, Credit Card Systems)
+### 🚀 DAY 5 – Conditional Logic (Uber, Swiggy, Credit Card Systems)
 
 🎯 Focus
 - if / elif / else  
